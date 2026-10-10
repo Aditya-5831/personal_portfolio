@@ -1,36 +1,106 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio — Aditya Shiyale
+
+A personal portfolio website showcasing my web development skills, projects, and learning journey. Built to present my work, share project demos, and make it easy for recruiters and collaborators to connect with me.
+
+**Live Website:** https://adityas-personal-portfolio.vercel.app/
+
+## Overview
+
+This portfolio serves as a central place to explore my web development work and learn more about my technical background.
+
+## Features
+
+- **About Me** — An introduction to my background and interests.
+- **Skills Section** — An overview of my web development technologies.
+- **Projects Showcase** — Links to my projects and their live demos.
+- **Contact Information** — A way for recruiters and collaborators to reach me.
+- **Responsive Design** — A layout designed to work across different screen sizes.
+
+*Keep only the features that are present and working on your website.*
+
+## Tech Stack
+
+- Next.js
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+*Adjust this list to match the technologies actually used in the project.*
+
+## Featured Projects
+
+### 1. Zumeo — Resume Builder
+
+A web application for creating and customizing resumes with a resume template, live preview, and PDF export.
+
+- **Live Demo:** https://zumeo.vercel.app/
+- **Source Code:** https://github.com/Aditya-5831/zumeo
+
+### 2. Personal Portfolio
+
+The website you're currently viewing, built to showcase my skills and projects.
 
 ## Getting Started
 
-First, run the development server:
+To run the project locally, follow these steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js
+- npm or pnpm
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:
 
-## Learn More
+   ```bash
+   git clone https://github.com/Aditya-5831/personal_portfolio.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to the project directory:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   cd personal_portfolio
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. Install dependencies:
 
-## Deploy on Vercel
+   ```bash
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Start the development server:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+*If your repository has a different name or uses pnpm, adjust the commands accordingly.*
+
+## Goals
+
+- Present my projects and technical skills professionally.
+- Continue improving my frontend development abilities.
+- Build practical web applications and learn through hands-on development.
+- Connect with teams offering entry-level web development opportunities.
+
+## Contact
+
+**Aditya Shiyale**
+
+- **Portfolio:** https://adityas-personal-portfolio.vercel.app/
+- **GitHub:** https://github.com/Aditya-5831
+
+Add your professional email and LinkedIn profile here if you want recruiters to contact you directly.
+
+## License
+
+This project is available for viewing and learning. No license is granted for reuse unless a license is added to the repository.
+
+---
+
+Built with Next.js and React.
